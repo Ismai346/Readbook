@@ -1,2 +1,2 @@
 # Readbook
-My First GitHub Repositoy
+My First GitHub Repository

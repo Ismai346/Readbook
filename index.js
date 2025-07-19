@@ -1,5 +1,5 @@
-
 console.log("spck editor teste")
+
 
 
 
